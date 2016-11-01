@@ -1,0 +1,22 @@
+{
+  "name": "jquerelous",
+  "version": "1.0.0",
+  "description": "a jquery review of jquery functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamKirk/jquerelous.git"
+  },
+  "author": "camkirk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamKirk/jquerelous/issues"
+  },
+  "homepage": "https://github.com/CamKirk/jquerelous#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

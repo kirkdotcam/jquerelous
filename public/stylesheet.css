@@ -1,0 +1,19 @@
+#marker{
+  background-color: red;
+}
+
+#selector{
+  background-color: blue;
+}
+
+.method {
+  background-color: purple;
+}
+
+#args{
+  background-color: green;
+}
+
+p {
+  padding-top: 20px
+}
